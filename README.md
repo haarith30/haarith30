@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haarith P studying 4th year , BE Computer Science and Design at RMK Engineering College ,Thiruvallur
 - 👀 I’m interested in Flutter and Unity AR/VR development.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 📫 How to reach me 
     Mail: haarithp24@gmail.com
 
