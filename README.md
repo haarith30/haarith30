@@ -63,7 +63,6 @@ Virtual reality application designed for high school students to safely perform 
 
 * 📧 Email: [haarithp24@gmail.com](mailto:haarithp24@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/haarith-p-5a503a235/
-* 💻 GitHub: https://github.com/haarith30
 
 ---
 
