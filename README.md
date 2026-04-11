@@ -61,6 +61,7 @@ Virtual reality application designed for high school students to safely perform 
 
 ## 📫 Connect With Me
 
+* 📧 Email: [haarithp24@gmail.com](mailto:haarithp24@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/haarith-p-5a503a235/
 * 💻 GitHub: https://github.com/haarith30
 
@@ -71,9 +72,3 @@ Virtual reality application designed for high school students to safely perform 
 I enjoy building creative applications and exploring new technologies, from backend systems to VR experiences.
 
 ---
-
-
-<!---
-haarith30/haarith30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
